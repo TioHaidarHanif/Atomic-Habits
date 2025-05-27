@@ -1,0 +1,7 @@
+
+{
+  "name": "Atomic Habit Builder",
+  "description": "An application to help you build and track atomic habits, inspired by James Clear's book. Track your progress and stay on track.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
